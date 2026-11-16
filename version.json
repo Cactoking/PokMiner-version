@@ -7,7 +7,7 @@
             "id": "Alpha 1.3.4_05",
             "version": "Alpha 1.3.4_05",
             "version_number": 4,
-            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/tag/alpha-1.3.4_05"
+            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/download/alpha-1.3.4_05/PokMiner.Alpha.1.3.4_05.exe"
         },
         
         
@@ -15,22 +15,22 @@
             "id": "Alpha 1.3.4_04",
             "version": "Alpha 1.3.4_04",
             "version_number": 3,
-            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/tag/alpha-1.3.4_04"
+            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/download/alpha-1.3.4_04/PokMiner.Alpha.1.3.4_04.exe"
         },
         
         {
-            "id": "Alpha 1.3.4",
-            "version": "Alpha 1.3.4",
+            "id": "Alpha 1.3.4_03",
+            "version": "Alpha 1.3.4_03",
             "version_number": 2,
-            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/tag/alpha-1.3.4"
+            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/download/alpha-1.3.4/PokMiner.Alpha.1.3.4_03.exe"
         },
 
         
         {
-            "id": "Alpha 1.3.2",
-            "version": "Alpha 1.3.2",
+            "id": "Alpha 1.3.2_02",
+            "version": "Alpha 1.3.2_02",
             "version_number": 2,
-            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/tag/v1.3.2"
+            "download_url": "https://github.com/Cactoking/pokminer-new_ver/releases/download/v1.3.2/PokMiner.Alpha.1.3.2_03.exe"
         }
 
     ]
